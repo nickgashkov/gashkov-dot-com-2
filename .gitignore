@@ -1,0 +1,10 @@
+# Ignore system files.
+.*
+*~
+
+# Ignore libs and builds.
+node_modules
+dist
+
+# Keep '.git' files.
+!.gitignore
