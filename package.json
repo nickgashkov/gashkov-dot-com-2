@@ -1,6 +1,6 @@
 {
   "name": "gashkov-dot-com-2",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"
