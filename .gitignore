@@ -8,3 +8,4 @@ dist
 
 # Keep '.git' files.
 !.gitignore
+!src/.vuepress
