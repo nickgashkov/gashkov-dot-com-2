@@ -8,4 +8,5 @@ dist
 
 # Keep '.git' files.
 !.gitignore
+!.travis-ci
 !src/.vuepress
