@@ -9,4 +9,5 @@ dist
 # Keep '.git' files.
 !.gitignore
 !.travis.yaml
+!.github
 !src/.vuepress
