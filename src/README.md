@@ -1,5 +1,10 @@
 # Nick Gashkov
 
+Contact me at:
+
+- [nick@gashkov.com](mailto:nick@gashkov.com)
+- [+7 999 249 78 28](tel:+79992497828)
+
 ## Backend Engineer
 
 This CV on another platforms:
@@ -19,8 +24,6 @@ I believe in total automation. Everything that can be tested and linted w/o huma
     - aiohttp
     - Django
     - pytest
-- Golang
-    - net/http
 
 ### Databases
 
