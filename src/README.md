@@ -1,6 +1,7 @@
 # Nick Gashkov
 
-### Contact me
+Contact me at:
+
 - [nick@gashkov.com](mailto:nick@gashkov.com)
 - [+7 999 249 78 28](tel:+79992497828)
 
