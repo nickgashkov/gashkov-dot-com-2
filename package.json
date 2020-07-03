@@ -6,7 +6,6 @@
     "build": "vuepress build src"
   },
   "devDependencies": {
-    "@vuepress/plugin-blog": "^1.9.2",
     "node-sass": "^4.14.1",
     "sass-loader": "^7.3.1",
     "vuepress": "^1.5.2"
